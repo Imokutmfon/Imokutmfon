@@ -2,6 +2,7 @@
 
 <!--
 **Imokutmfon/Imokutmfon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 
 <h1 align="center">Hi 👋, I'm Imokutmfon-abasi Udoh</h1>
@@ -13,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://imokutmfon.github.io/portfolio.html)
 
-- 📝 I write articles on [my blog](my blog)
+- 📝 I write articles on [my blog](https://medium.com/@imokut)
 
 - 💬 Ask me about **Artificial Intelligience**
 
@@ -24,12 +25,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ImokutUdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imokut" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imokut" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imokut" height="30" width="40" /></a>
-<a href="https://kaggle.com/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imokut" height="30" width="40" /></a>
-<a href="https://medium.com/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imokut" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imokutmfon-abasi-udoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imokut" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16325481/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imokut" height="30" width="40" /></a>
+<a href="https://kaggle.com/imokutmfonudoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imokut" height="30" width="40" /></a>
+<a href="https://medium.com/@imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="imokut" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imokut" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imokut" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/Imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imokut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
