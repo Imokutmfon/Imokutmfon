@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **imokutofficial@gmail.com**
 
-- ⚡ Fun fact **I enjoy research**
+- ⚡ Fun fact **I enjoy research and code games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
