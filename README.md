@@ -8,21 +8,23 @@
 
 - 🔭 I’m currently contributing to open-source projects <!-- [Openvino](linkdh) -->
 
-- 🌱 I’m currently learning **Natural language processing with Tensorflow**
+- 🌱 I’m currently contributing to machine learning projects
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://imokutmfon.github.io/portfolio.html)
+- 👨‍💻 All of my projects are available at my [portfolio](https://portfolio.imokutmfonudoh.workers.dev/)
 
 - 📝 I write articles on [my blog](https://medium.com/@imokut)
 
 - 💬 Ask me about **Artificial Intelligience**
 
-- 📫 How to reach me **imokutofficial@gmail.com**
+- 📫 How to reach me **imokutmfonudoh@gmail.com**
 
 - ⚡ Fun fact **I enjoy research and code games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!--
 <a href="https://twitter.com/ImokutUdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imokut" height="30" width="40" /></a>
+-->
 <a href="https://linkedin.com/in/imokutmfon-abasi-udoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imokut" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16325481/imokut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="imokut" height="30" width="40" /></a>
 <a href="https://kaggle.com/imokutmfonudoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imokut" height="30" width="40" /></a>
